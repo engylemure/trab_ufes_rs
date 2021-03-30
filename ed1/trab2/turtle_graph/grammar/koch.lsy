@@ -1,0 +1,5 @@
+angle 6
+order 7
+axiom F
+
+F = F+F--F+F

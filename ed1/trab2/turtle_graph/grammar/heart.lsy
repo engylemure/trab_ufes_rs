@@ -1,0 +1,5 @@
+angle 8
+order 4
+axiom [[+FFF+F+F+F+FX]+++FFF-F-F-F-FX][g[[+FFF+F+F+F+FX]+++FFF-F-F-F-FX]][++g[[+FFF+F+F+F+FX]+++FFF-F-F-F-FX]]
+X = F[+FFF+F+F+F+FX]+++FFF-F-F-F-FX
+g = GGGGGGGGGGGGGGG

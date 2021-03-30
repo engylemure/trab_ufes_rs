@@ -1,0 +1,4 @@
+angle 4
+order 4
+axiom F[X]+F[X]+F[X]+F[X]
+X = +FX

@@ -1,0 +1,4 @@
+angle 6
+order 4
+axiom [[+FX][F]G[++F]-X]---X
+X = [[+FX][F]G[++F]-X]---X

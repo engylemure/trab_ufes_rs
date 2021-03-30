@@ -1,0 +1,5 @@
+angle 25
+order 7
+axiom ++++++X
+X = C4F-[C5[X]+C5X]+C3F[C3+FX]-X
+F = FF

@@ -1,0 +1,4 @@
+angle 8
+order 3
+axiom ++FF[FX][--FX][++FX][-FX]+FX
+X=[FX][--FX][++FX][-FX]+FX

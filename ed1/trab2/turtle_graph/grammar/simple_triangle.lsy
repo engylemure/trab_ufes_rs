@@ -1,0 +1,4 @@
+angle 6
+order 6
+axiom F[++F++F]X
+X = GF[++F++F]X

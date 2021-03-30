@@ -1,0 +1,5 @@
+angle 6
+order 10
+axiom F
+
+F=C0F+C6F--C0F+C6F--

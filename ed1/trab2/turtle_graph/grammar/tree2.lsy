@@ -1,0 +1,5 @@
+angle 25
+order 5
+axiom ++++++FX
+F=C4FF-[C3-F+F]+[C5+F-F]
+X=C4FF+[C3+F]+[C5-F]

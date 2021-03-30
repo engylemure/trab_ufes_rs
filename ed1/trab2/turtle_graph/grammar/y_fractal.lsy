@@ -1,0 +1,15 @@
+; Preamble
+angle 8
+   order 5
+rotate 45
+
+  ; Production Rules
+; Axiom
+  ; lixo
+  ;lixo
+axiom   ++FX
+
+
+; Rules
+ X  = [-FX]+FX
+
